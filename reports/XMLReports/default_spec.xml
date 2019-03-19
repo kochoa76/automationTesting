@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="default_spec"
+    errors="1" failures="0" hostname="" id="" package="default_spec" skipped="7"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+
+  
+    
+    <testcase
+      name="Does not show the task list if there are no tasks" classname="default_spec">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Does not show the footer if there are no tasks" classname="default_spec">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="On page load, it sets focus on the input field" classname="default_spec">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="When I add a task, it shows to do items" classname="default_spec">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Marks a todo item as completed by striking through it" classname="default_spec">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Shows how many items there are left" classname="default_spec">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Does not add empty or blank tasks" classname="default_spec">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
